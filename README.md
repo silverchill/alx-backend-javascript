@@ -1,2 +1,1 @@
-# alx-backend-javascript
-To solve backend related issues with Javascript
+solving task related to ES6
